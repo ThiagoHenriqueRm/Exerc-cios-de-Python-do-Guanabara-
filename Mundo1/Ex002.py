@@ -1,6 +1,4 @@
 # Python
-from os import system
-system("clear")
 
 nome = str(input("\n Qual é o seu nome ? : "))
 
