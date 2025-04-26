@@ -1,5 +1,5 @@
 
-# Minhas respostas para os exercícios do curo de Python do Gustavo Guanabara
+# Minhas respostas para os exercícios do curso de Python do Gustavo Guanabara
 
 
 ### Mundo 1
