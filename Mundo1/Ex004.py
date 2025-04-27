@@ -1,6 +1,4 @@
 # Python
-from os import system
-system("clear")
 
 entrada = input("\nEntrda : ")
 
