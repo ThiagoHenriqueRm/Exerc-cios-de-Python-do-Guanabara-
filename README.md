@@ -26,7 +26,7 @@
 
   <br>
   
-  ### Operadores Aritméticos Ex: 005 - 015
+  ### Aula 7 : Operadores Aritméticos Ex: 005 - 015
 
   ### [**Ex005**](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex005.py)
   - **Enunciado do exercício :** Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
