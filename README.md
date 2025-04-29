@@ -31,7 +31,7 @@
   ### [**Ex005**](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex005.py)
   - **Enunciado do exercício :** Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
 
-  ### [**Ex005**](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex006.py)
+  ### [**Ex006**](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex006.py)
   - **Enunciado do exercício :** Crie um algoritmo que leia um número e mostre o seu **Dobro**, **Triplo** e a **Raiz Quadrada**.
 
 </details>
