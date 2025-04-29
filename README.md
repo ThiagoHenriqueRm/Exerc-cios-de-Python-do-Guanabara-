@@ -4,7 +4,7 @@
 ### [Mundo 1](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/tree/main/Mundo1)
 <details>
   
-  **<summary>Exercícios: 001 - 005</summary>**
+  **<summary>Exercícios: 001 - 006</summary>**
 
   ### Aula 1 - 5 : Primeiros comandos em Python Ex: 001 - 002
   
