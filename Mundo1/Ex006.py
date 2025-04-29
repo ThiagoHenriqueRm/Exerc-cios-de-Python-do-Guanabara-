@@ -1,6 +1,5 @@
 # Python
-from os import system
-system("clear")
+# Crie um algoritmo que leia um número e mostre o seu Dobro, Triplo e a Raiz Quadrada
 
 n = int(input("Numero : "))
 
