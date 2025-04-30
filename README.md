@@ -1,6 +1,6 @@
 # 🐍 Minhas respostas para os exercícios do curso de Python do Gustavo Guanabara
 
-> ### 📘 Curso em Vídeo: [Site Oficial](https://www.cursoemvideo.com/) | [YouTube](https://youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&si=vmTXRcnBtZn7m2_8)
+> ### 📘 Curso em Vídeo: [Site Oficial](https://www.cursoemvideo.com/) | [YouTube](https://youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ?si=xqRIhiYg0EZnGnbP)
 >> ### Curso de Python:<br>
 >> [**Site Oficial (Mundo 1)**](https://www.cursoemvideo.com/curso/python-3-mundo-1/) | [**YouTube (Mundo 1)**](https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&si=b896Bdh7K_yvMRPT)<br> 
 >> [**Site Oficial (Mundo 2)**](https://www.cursoemvideo.com/curso/python-3-mundo-2/) | [**YouTube (Mundo 2)**](https://youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye&si=0Xal-Rd6GPnY7kpu) <br>
