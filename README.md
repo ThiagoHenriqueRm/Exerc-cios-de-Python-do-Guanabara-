@@ -37,7 +37,7 @@
   
   > ---
 
-  > ## [Ex003: Somando Numeros ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex003.py)
+  > ## [Ex003: Somando dois Numeros ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex003.py)
   > **Enunciado do exercício :** <br>
   > - Crie um programa que leia **dois númeors** e mostre a **soma entre eles**.
   
