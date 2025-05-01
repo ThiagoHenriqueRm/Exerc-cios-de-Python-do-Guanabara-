@@ -1,6 +1,5 @@
 # Python
-from os import system
-system("clear")
+# Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
 m = float(input("Metros : ").replace(",", "."))
 
