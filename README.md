@@ -11,7 +11,7 @@
 ### [🌍 Mundo 1](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/tree/main/Mundo1)
 <details>
   
-  **<summary>Exercícios: 001 - 007</summary>**
+  **<summary>Exercícios: 001 - 008</summary>**
 
   Aula 1 - 5 : Primeiros comandos em Python ( Ex: 001 - 002 )
   -
@@ -51,7 +51,7 @@
 
   <br>
   
-  Aula 7 : Operadores Aritméticos ( Ex: 005 - 007 )
+  Aula 7 : Operadores Aritméticos ( Ex: 005 - 008 )
   -
   > ---
   
@@ -73,9 +73,11 @@
 
   > ---
 
+  > ## [Ex008: Conversor de Medidas ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex008.py)
+  > **Enunciado do exercício :** <br>
+  > - Escreva um programa que **leia um valor em metros** e o exiba **convertido em**: **km**, **hm**, **dam**, **m**, **dm**, **cm** e **mm**.
+
+
 </details>
 
 ---
-
-
-  
