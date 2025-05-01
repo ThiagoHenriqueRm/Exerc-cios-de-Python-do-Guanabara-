@@ -1,5 +1,5 @@
 # Python
-# Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+# Escreva um programa que leia um valor em metros e o exiba convertido em : km , hm , dam , m , dm , cm e mm .
 
 m = float(input("Metros: ").replace(",", "."))
 
