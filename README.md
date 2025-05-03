@@ -11,7 +11,7 @@
 ### [🌍 Mundo 1](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/tree/main/Mundo1)
 <details>
   
-  **<summary>Exercícios: 001 - 009</summary>**
+  **<summary>Exercícios: 001 - 010</summary>**
 
   Aula 1 - 5 : Primeiros comandos em Python ( Ex: 001 - 002 )
   -
@@ -51,7 +51,7 @@
 
   <br>
   
-  Aula 7 : Operadores Aritméticos ( Ex: 005 - 009 )
+  Aula 7 : Operadores Aritméticos ( Ex: 005 - 010 )
   -
   > ---
   
