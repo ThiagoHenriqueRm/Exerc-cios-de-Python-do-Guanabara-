@@ -9,6 +9,6 @@ tinta = ( area / 2 )
 
 print(
     f"\n Area -------------> : {area}m²",
-    f"\n Tenta necessaria -> : {tinta}L",
+    f"\n Tinta necessaria -> : {tinta}L",
     "\n"
 )
