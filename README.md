@@ -11,7 +11,7 @@
 ### [🌍 Mundo 1](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/tree/main/Mundo1)
 <details>
   
-  **<summary>Exercícios: 001 - 011</summary>**
+  **<summary>Exercícios: 001 - 012</summary>**
 
   Aula 1 - 5 : Primeiros comandos em Python ( Ex: 001 - 002 )
   -
@@ -51,7 +51,7 @@
 
   <br>
   
-  Aula 7 : Operadores Aritméticos ( Ex: 005 - 011 )
+  Aula 7 : Operadores Aritméticos ( Ex: 005 - 012 )
   -
   > ---
   
@@ -94,6 +94,12 @@
   > ## [Ex011: Pintando Parede ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex011.py)
   > **Enunciado do exercício :**  
   > - Faça um programa que **leia** a **largura** e a **altura** de uma parede em metros, **calcule a sua área** e a **quantidade de tinta necessária** para pintá-la, sabendo que **cada litro de tinta pinta uma área de 2 metros quadrados**.
+
+  > ---
+
+  > ## [Ex012: Calculando Descontos](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex012.py)
+  > **Enunciado do exercício :**
+  > - Faça um algoritmo que **leia o preço de um produto** e mostre seu novo preço, com **5% de desconto**.
 
   > ---
 
