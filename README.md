@@ -102,6 +102,12 @@
   > - Faça um algoritmo que **leia o preço de um produto** e mostre seu novo preço, com **5% de desconto**.
 
   > ---
+ 
+  > ## [Ex013: Reajuste Salarial ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex013.py)
+  > **Enunciado do exercício :**
+  >  - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+
+  > ---
 
 </details>
 
