@@ -11,7 +11,7 @@
 ### [🌍 Mundo 1](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/tree/main/Mundo1)
 <details>
   
-  **<summary>Exercícios: 001 - 013</summary>**
+  **<summary>Exercícios: 001 - 022</summary>**
 
   Aula 1 - 5 : Primeiros comandos em Python ( Ex: 001 - 002 )
   -
@@ -51,7 +51,7 @@
 
   <br>
   
-  Aula 7 : Operadores Aritméticos ( Ex: 005 - 013 )
+  Aula 7 : Operadores Aritméticos ( Ex: 005 - 015 )
   -
   > ---
   
@@ -106,6 +106,75 @@
   > ## [Ex013: Reajuste Salarial ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex013.py)
   > **Enunciado do exercício :**
   >  - Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+
+  > ---
+
+  > ## [Ex014: Conversor de Temperaturas ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex014.py)
+  > **Enunciado do exercício :**
+  > - Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para graus Fahrenheit.
+
+  > ---
+
+  > ## [Ex0:15 Aluguel de Carros ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex015.py)
+  > **Enunciado do exercício :**
+  > - Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por Km rodado.
+
+  > ---
+
+  <br>
+
+  Aula 8 : Utilizando Módulos ( Ex: 016 - 021 )
+  -
+  > ---
+
+  > ## [Ex016: Quebrando um número ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex016.py)
+  > **Enunciado do exercício :**
+  > - Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela a sua porção Inteira.
+
+  > ---
+
+  > ## [Ex017: Catetos e Hipotenusa ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex017.py)
+  > **Enunciado do exercício :**
+  > - Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retângulo. Calcule e mostre o comprimento da hipotenusa.
+
+  > ---
+
+  > ## [Ex018: Seno, Cosseno e Tangente ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex018.py)
+  > **Enunciado do exercício :**
+  > - Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+
+  > ---
+
+  > ## [Ex019: Sorteando um item na lista ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex019.py)
+  > **Enunciado do exercício :**
+  > - Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o nome dos alunos e escrevendo na tela o nome do escolhido.
+
+  > ---
+
+  > ## [Ex020: Sorteando uma ordem na lista ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex020.py)
+  > **Enunciado do exercício :**
+  > - O mesmo professor do desafio 019 quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+
+  > ---
+
+  > ## [Ex021: Tocando um MP3 ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex021.py)
+  > **Enunciado do exercício :**
+  > - Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+
+  > ---
+
+  <br>
+  
+  Aula 9 : Manipulando Texto ( Ex: 022 )
+  -
+  > ---
+
+  > ## [Ex022: Analisador de Textos ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex022.py)
+  > **Enunciado do exercício :**
+  > - Crie um programa que leia o nome completo de uma pessoa e mostre:  
+      - O nome com todas as letras maiúsculas e minúsculas.  
+      - Quantas letras ao todo (sem considerar espaços).  
+      - Quantas letras tem o primeiro nome.  
 
   > ---
 
