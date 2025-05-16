@@ -11,7 +11,7 @@
 ### [🌍 Mundo 1](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/tree/main/Mundo1)
 <details>
   
-  **<summary>Exercícios: 001 - 022</summary>**
+  **<summary>Exercícios: 001 - 023</summary>**
 
   Aula 1 - 5 : Primeiros comandos em Python ( Ex: 001 - 002 )
   -
@@ -165,7 +165,7 @@
 
   <br>
   
-  Aula 9 : Manipulando Texto ( Ex: 022 )
+  Aula 9 : Manipulando Texto ( Ex: 022 - 023 )
   -
   > ---
 
@@ -177,6 +177,13 @@
       - Quantas letras tem o primeiro nome.  
 
   > ---
+
+  > ## [Ex023: Separando dígitos de um número ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex023.py)
+  > **Enunciado do exercício :**
+  > - Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados.
+
+  > ---
+
 
 </details>
 
