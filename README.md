@@ -184,6 +184,12 @@
 
   > ---
 
+  > ## [Ex024: Verificando as primeiras letras de um texto ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex024.py)
+  > **Enunciado do exercício :**
+  > - Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome "SANTO".  
+
+  > ---
+
 
 </details>
 
