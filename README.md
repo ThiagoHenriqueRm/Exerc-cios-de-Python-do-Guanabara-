@@ -11,7 +11,7 @@
 ### [🌍 Mundo 1](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/tree/main/Mundo1)
 <details>
   
-  **<summary>Exercícios: 001 - 023</summary>**
+  **<summary>Exercícios: 001 - 025</summary>**
 
   Aula 1 - 5 : Primeiros comandos em Python ( Ex: 001 - 002 )
   -
@@ -165,7 +165,7 @@
 
   <br>
   
-  Aula 9 : Manipulando Texto ( Ex: 022 - 023 )
+  Aula 9 : Manipulando Texto ( Ex: 022 - 025 )
   -
   > ---
 
@@ -190,6 +190,11 @@
 
   > ---
 
+  > ## [Ex025: Verificando as primeiras letras de um texto ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex025.py)
+  > **Enunciado do exercício :**  
+  > - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+
+  > ---
 
 </details>
 
