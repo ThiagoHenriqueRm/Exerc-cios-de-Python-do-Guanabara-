@@ -1,5 +1,5 @@
 # Python
-# Crie um programa que leia o nome de uma cidade diga se ela começa ou não com o nome "SANTO".
+# Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
 
 nome = str(input("Seu nome todo : ")).strip()
 ver = ("SILVA" in nome.upper())
