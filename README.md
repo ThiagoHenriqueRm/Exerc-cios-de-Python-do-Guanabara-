@@ -202,7 +202,7 @@
 
   > ---
 
-  > ## [Ex027: Primeiro e último nome de uma pessoa ](ttps://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex027.py)
+  > ## [Ex027: Primeiro e último nome de uma pessoa ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex027.py)
   > **Enunciado do exercício :**  
   > - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.  
     - Ex: Ana Maria de Souza (primeiro = Ana; último = Souza).
