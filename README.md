@@ -208,6 +208,60 @@
     - Ex: Ana Maria de Souza (primeiro = Ana; último = Souza).
 
   > ---
+    
+  <br>
+  
+  Aula 10 : Condições Parte 1 ( Ex: 028 - 035 )
+  -
+  > ---
+
+  > ## [Ex028: Jogo da Adivinhação v.1.0 ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex028.py)
+  > **Enunciado do exercício :**  
+  > - Escreva um programa que faça o computador "pensar" em um número inteiro entre 0 e 5 e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador. O programa deverá escrever na tela se o usuário venceu ou perdeu.
+
+  > ---
+
+  > ## [Ex029: Radar eletrônico ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex029.py)
+  > **Enunciado do exercício :**  
+  > - Escreva um programa que leia a velocidade de um carro. Se ele ultrapassar 80Km/h, mostre uma mensagem dizendo que ele foi multado. A multa vai custar R$7,00 por cada Km acima do limite.
+
+  > ---
+
+  > ## [Ex030: Par ou Ímpar? ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex030.py)
+  > **Enunciado do exercício :**  
+  > - Crie um programa que leia um número inteiro e mostre na tela se ele é PAR ou ÍMPAR.
+
+  > ---
+
+  > ## [Ex031: Custo da Viagem ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex031.py)
+  > **Enunciado do exercício :**  
+  > - Desenvolva um programa que pergunte a distância de uma viagem em Km. Calcule o preço da passagem, cobrando R$0,50 por Km para viagens de até 200Km e R$0,45 parta viagens mais longas.
+
+  > ---
+
+  > ## [Ex032: Ano Bissexto ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex032.py)
+  > **Enunciado do exercício :**  
+  > - Faça um programa que leia um ano qualquer e mostre se ele é bissexto.
+
+  > ---
+
+  > ## [Ex033: Maior e menor valores ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex033.py)
+  > **Enunciado do exercício :**  
+  > - Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
+
+  > ---
+
+  > ## [Ex034: Aumentos múltiplos ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex034.py)
+  > **Enunciado do exercício :**  
+  > - Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento. Para salários superiores a R$1250,00, calcule um aumento de 10%. Para os inferiores ou iguais, o aumento é de 15%.
+
+  > ---
+
+  > ## [Ex035: Analisando Triângulo v1.0 ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex035.py)
+  > **Enunciado do exercício :**  
+  > - Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triângulo.
+
+  > ---
 
 </details>
 
