@@ -165,7 +165,7 @@
 
   <br>
   
-  Aula 9 : Manipulando Texto ( Ex: 022 - 025 )
+  Aula 9 : Manipulando Texto ( Ex: 022 - 027 )
   -
   > ---
 
@@ -193,6 +193,19 @@
   > ## [Ex025: Verificando as primeiras letras de um texto ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex025.py)
   > **Enunciado do exercício :**  
   > - Crie um programa que leia o nome de uma pessoa e diga se ela tem "SILVA" no nome.
+
+  > ---
+
+  > ## [Ex026: Primeira e última ocorrência de uma string ](https://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex026.py)
+  > **Enunciado do exercício :**  
+  > - Faça um programa que leia uma frase pelo teclado e mostre quantas vezes aparece a letra "A", em que posição ela aparece a primeira vez e em que posição ela aparece a última vez.
+
+  > ---
+
+  > ## [Ex027: Primeiro e último nome de uma pessoa ](ttps://github.com/ThiagoHenriqueRm/Exerc-cios-de-Python-do-Guanabara-/blob/main/Mundo1/Ex027.py)
+  > **Enunciado do exercício :**  
+  > - Faça um programa que leia o nome completo de uma pessoa, mostrando em seguida o primeiro e o último nome separadamente.  
+    - Ex: Ana Maria de Souza (primeiro = Ana; último = Souza).
 
   > ---
 
